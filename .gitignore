@@ -1,0 +1,8 @@
+env/
+env/** */
+.env
+yolo*/
+yolo*
+*.pt
+*.torchscript
+__pycache__/*
