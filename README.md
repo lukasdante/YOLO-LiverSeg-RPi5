@@ -3,7 +3,7 @@
 This is a finetuned YOLO 11 XL segmentation model finetuned for focal liver lesion segmentation. The model has already been exported to an NCNN format for Raspberry Pi optimization. Refer to YOLO documentation for further details.
 
 ## How to use
-1. Download the model here. Download all the files, unzip it, and place it in the same directory or folder as the code here. Your directory should look like this:
+1. Download the model [here](https://drive.google.com/drive/folders/1mYUs9F3wnqbS67T5zsHcZqaiT550K3Ev?usp=sharing). Download all the files, unzip it, and place it in the same directory or folder as the code here. Your directory should look like this:
 ```
 Folder
 ├── api.py
